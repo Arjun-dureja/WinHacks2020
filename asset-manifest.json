@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/WinHacks2020/static/css/main.1a5f11bd.chunk.css",
-    "main.js": "/WinHacks2020/static/js/main.c4210cbc.chunk.js",
-    "main.js.map": "/WinHacks2020/static/js/main.c4210cbc.chunk.js.map",
-    "runtime~main.js": "/WinHacks2020/static/js/runtime~main.986b90af.js",
-    "runtime~main.js.map": "/WinHacks2020/static/js/runtime~main.986b90af.js.map",
-    "static/css/2.d0176e96.chunk.css": "/WinHacks2020/static/css/2.d0176e96.chunk.css",
-    "static/js/2.b002b8b2.chunk.js": "/WinHacks2020/static/js/2.b002b8b2.chunk.js",
-    "static/js/2.b002b8b2.chunk.js.map": "/WinHacks2020/static/js/2.b002b8b2.chunk.js.map",
+    "main.css": "/WinHacks2020/static/css/main.5f361e03.chunk.css",
+    "main.js": "/WinHacks2020/static/js/main.ebaeb4e1.chunk.js",
+    "main.js.map": "/WinHacks2020/static/js/main.ebaeb4e1.chunk.js.map",
+    "runtime-main.js": "/WinHacks2020/static/js/runtime-main.3215d62f.js",
+    "runtime-main.js.map": "/WinHacks2020/static/js/runtime-main.3215d62f.js.map",
+    "static/js/2.1b673829.chunk.js": "/WinHacks2020/static/js/2.1b673829.chunk.js",
+    "static/js/2.1b673829.chunk.js.map": "/WinHacks2020/static/js/2.1b673829.chunk.js.map",
     "index.html": "/WinHacks2020/index.html",
-    "precache-manifest.265f1401e223b15d87726b4f9e4b1d27.js": "/WinHacks2020/precache-manifest.265f1401e223b15d87726b4f9e4b1d27.js",
+    "precache-manifest.c6fc566550b91b2be304ac9d76653793.js": "/WinHacks2020/precache-manifest.c6fc566550b91b2be304ac9d76653793.js",
     "service-worker.js": "/WinHacks2020/service-worker.js",
-    "static/css/2.d0176e96.chunk.css.map": "/WinHacks2020/static/css/2.d0176e96.chunk.css.map",
-    "static/css/main.1a5f11bd.chunk.css.map": "/WinHacks2020/static/css/main.1a5f11bd.chunk.css.map",
-    "static/media/marc.jpg": "/WinHacks2020/static/media/marc.8880a65c.jpg",
-    "static/media/sidebar-1.jpg": "/WinHacks2020/static/media/sidebar-1.8e9f0a3c.jpg",
-    "static/media/sidebar-2.jpg": "/WinHacks2020/static/media/sidebar-2.310509c9.jpg",
-    "static/media/sidebar-3.jpg": "/WinHacks2020/static/media/sidebar-3.25031690.jpg",
-    "static/media/sidebar-4.jpg": "/WinHacks2020/static/media/sidebar-4.fc9cb053.jpg"
-  }
+    "static/css/main.5f361e03.chunk.css.map": "/WinHacks2020/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b673829.chunk.js.LICENSE.txt": "/WinHacks2020/static/js/2.1b673829.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/WinHacks2020/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3215d62f.js",
+    "static/js/2.1b673829.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ebaeb4e1.chunk.js"
+  ]
 }
