@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/WinHacks2020/static/css/main.5f361e03.chunk.css",
-    "main.js": "/WinHacks2020/static/js/main.ebaeb4e1.chunk.js",
-    "main.js.map": "/WinHacks2020/static/js/main.ebaeb4e1.chunk.js.map",
+    "main.js": "/WinHacks2020/static/js/main.a760042a.chunk.js",
+    "main.js.map": "/WinHacks2020/static/js/main.a760042a.chunk.js.map",
     "runtime-main.js": "/WinHacks2020/static/js/runtime-main.3215d62f.js",
     "runtime-main.js.map": "/WinHacks2020/static/js/runtime-main.3215d62f.js.map",
-    "static/js/2.1b673829.chunk.js": "/WinHacks2020/static/js/2.1b673829.chunk.js",
-    "static/js/2.1b673829.chunk.js.map": "/WinHacks2020/static/js/2.1b673829.chunk.js.map",
+    "static/js/2.4fbbc2a4.chunk.js": "/WinHacks2020/static/js/2.4fbbc2a4.chunk.js",
+    "static/js/2.4fbbc2a4.chunk.js.map": "/WinHacks2020/static/js/2.4fbbc2a4.chunk.js.map",
     "index.html": "/WinHacks2020/index.html",
-    "precache-manifest.c6fc566550b91b2be304ac9d76653793.js": "/WinHacks2020/precache-manifest.c6fc566550b91b2be304ac9d76653793.js",
+    "precache-manifest.def95f486237651277b6b61fccb0e80e.js": "/WinHacks2020/precache-manifest.def95f486237651277b6b61fccb0e80e.js",
     "service-worker.js": "/WinHacks2020/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/WinHacks2020/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1b673829.chunk.js.LICENSE.txt": "/WinHacks2020/static/js/2.1b673829.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/WinHacks2020/static/media/logo.5d5d9eef.svg"
+    "static/js/2.4fbbc2a4.chunk.js.LICENSE.txt": "/WinHacks2020/static/js/2.4fbbc2a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3215d62f.js",
-    "static/js/2.1b673829.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ebaeb4e1.chunk.js"
+    "static/js/2.4fbbc2a4.chunk.js",
+    "static/js/main.a760042a.chunk.js"
   ]
 }

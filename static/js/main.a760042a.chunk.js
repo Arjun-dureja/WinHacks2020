@@ -1,0 +1,2 @@
+(this["webpackJsonpwin-hacks"]=this["webpackJsonpwin-hacks"]||[]).push([[0],{13:function(e,t,n){e.exports=n(14)},14:function(e,t,n){"use strict";n.r(t);var s=n(0),a=n.n(s),c=n(10),o=n.n(c),r=n(3),i=n(24),h=Object(r.a)();o.a.render(a.a.createElement(i.a,{history:h}),document.getElementById("root"))}},[[13,1,2]]]);
+//# sourceMappingURL=main.a760042a.chunk.js.map
