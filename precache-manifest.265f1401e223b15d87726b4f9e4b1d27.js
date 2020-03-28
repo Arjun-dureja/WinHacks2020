@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c26f4355ea49fcd905b72483787b615c",
+    "revision": "01acb88c69776b49948adbe49830d164",
     "url": "/WinHacks2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WinHacks2020/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "aba0a1da8d3952fa1a5f",
+    "revision": "c9d1894ebd7b137c9721",
     "url": "/WinHacks2020/static/css/main.1a5f11bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WinHacks2020/static/js/2.b002b8b2.chunk.js"
   },
   {
-    "revision": "aba0a1da8d3952fa1a5f",
-    "url": "/WinHacks2020/static/js/main.479dda24.chunk.js"
+    "revision": "c9d1894ebd7b137c9721",
+    "url": "/WinHacks2020/static/js/main.c4210cbc.chunk.js"
   },
   {
     "revision": "895b1f4f1023e798853d",
