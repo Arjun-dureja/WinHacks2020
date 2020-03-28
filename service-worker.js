@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WinHacks2020/precache-manifest.0f6aa660fef3b129a43ef9cf4b3ccb7b.js"
+  "/WinHacks2020/precache-manifest.38959c1236bfbec2be397ccf808e42c8.js"
 );
 
 self.addEventListener('message', (event) => {
