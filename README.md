@@ -4,6 +4,8 @@
 
 **[https://devpost.com/software/covidbase](https://devpost.com/software/covidbase)**
 
+![logo](https://raw.githubusercontent.com/uzairmahmed/UofTHacks2020/master/images/splash.png)
+
 ## Inspiration
 As we are currently in the midst of a pandemic, we wanted to create a system that streamlines the distribution process for companies that want to contribute their services in creating commodities in the battle against COVID-19. Such necessities that are rapidly depleting in quantity include N95 masks and ventilators. CoronaBase involves the usage of a regularly updated database that contains the information of companies that agree to provide resources in the production of these aforementioned items. This database seeks to attract the attention of production companies that specialize in these products and hopefully aids in bridging the gap between the producing and the supplying sectors. 
 
